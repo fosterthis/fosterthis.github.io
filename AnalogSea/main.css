@@ -37,4 +37,5 @@ button[type='submit'] {
 	background: #fcfcfc;
 	display: block;
 	font-size: 18px;
+	margin: 20px auto;
 }
