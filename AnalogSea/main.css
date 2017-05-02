@@ -4,3 +4,9 @@ body {
 	font-family: 'Roboto', helvetica, sans-serif;
 }
 
+.logo {
+	display: block;
+	height: 35px;
+	width: auto;
+	margin: 0 auto 30px;
+}
