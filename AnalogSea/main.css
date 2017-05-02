@@ -27,3 +27,10 @@ body * {
 	color: #565656;
 	font-size: 35px;
 }
+input[type='email'],
+input[type='password'],
+button[type='submit'] {
+	background: #fcfcfc;
+	display: block;
+	font-size: 18px;
+}
