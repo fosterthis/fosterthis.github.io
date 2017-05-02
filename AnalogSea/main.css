@@ -38,4 +38,5 @@ button[type='submit'] {
 	display: block;
 	font-size: 18px;
 	margin: 20px auto;
+	padding: 15px;
 }
